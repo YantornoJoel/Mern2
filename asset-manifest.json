@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/NodeMongoLoginNotes/static/css/main.0067cc6a.chunk.css",
+    "main.js": "/NodeMongoLoginNotes/static/js/main.47529d24.chunk.js",
+    "main.js.map": "/NodeMongoLoginNotes/static/js/main.47529d24.chunk.js.map",
+    "runtime-main.js": "/NodeMongoLoginNotes/static/js/runtime-main.ddde31fe.js",
+    "runtime-main.js.map": "/NodeMongoLoginNotes/static/js/runtime-main.ddde31fe.js.map",
+    "static/css/2.d98961f1.chunk.css": "/NodeMongoLoginNotes/static/css/2.d98961f1.chunk.css",
+    "static/js/2.57fd8b3a.chunk.js": "/NodeMongoLoginNotes/static/js/2.57fd8b3a.chunk.js",
+    "static/js/2.57fd8b3a.chunk.js.map": "/NodeMongoLoginNotes/static/js/2.57fd8b3a.chunk.js.map",
+    "index.html": "/NodeMongoLoginNotes/index.html",
+    "precache-manifest.e99d7cf4d045bbfe701a8d5e22d30544.js": "/NodeMongoLoginNotes/precache-manifest.e99d7cf4d045bbfe701a8d5e22d30544.js",
+    "service-worker.js": "/NodeMongoLoginNotes/service-worker.js",
+    "static/css/2.d98961f1.chunk.css.map": "/NodeMongoLoginNotes/static/css/2.d98961f1.chunk.css.map",
+    "static/css/main.0067cc6a.chunk.css.map": "/NodeMongoLoginNotes/static/css/main.0067cc6a.chunk.css.map",
+    "static/js/2.57fd8b3a.chunk.js.LICENSE.txt": "/NodeMongoLoginNotes/static/js/2.57fd8b3a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ddde31fe.js",
+    "static/css/2.d98961f1.chunk.css",
+    "static/js/2.57fd8b3a.chunk.js",
+    "static/css/main.0067cc6a.chunk.css",
+    "static/js/main.47529d24.chunk.js"
+  ]
+}

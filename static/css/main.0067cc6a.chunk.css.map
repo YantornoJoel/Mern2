@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,KACI,kBAAmB,CAEnB,iDACJ","file":"main.0067cc6a.chunk.css","sourcesContent":["body{\r\n    background: #E0EAFC;\r\n    background: -webkit-linear-gradient(to right, #CFDEF3, #E0EAFC);\r\n    background: linear-gradient(to right, #CFDEF3, #E0EAFC);\r\n}"]}
